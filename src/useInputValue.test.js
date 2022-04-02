@@ -1,6 +1,6 @@
 import { renderHook, act } from "@testing-library/react-hooks";
 
-/** Hooks */
+/** Custom Hooks */
 import { useInputValue } from "./useInputValue";
 
 describe("useInputValue", () => {
